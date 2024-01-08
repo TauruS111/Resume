@@ -32,6 +32,7 @@ body {
   line-height: 55px;
   margin-top: 10px;
   margin-bottom: 8px;
+  color: #2979ff;
 }
 
 .saidebar {
@@ -39,9 +40,9 @@ body {
 }
 
 .saidebar-content {
-  padding-top: 40px;
+  padding-top: 20px;
   padding-left: 40px;
-  padding-right: 80px;
+  padding-right: 40px;
 }
 
 .sadebar-title {
@@ -49,7 +50,6 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  color: #161d2a;
   margin-bottom: 8px;
 }
 
@@ -59,17 +59,14 @@ body {
 }
 
 .contacts-item {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
-  color: #161d2a;
   margin-bottom: 8pcx;
 }
 
 .contacts-link {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -83,7 +80,6 @@ body {
 }
 
 .skills-item {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -97,22 +93,18 @@ body {
 }
 
 .my-profession {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 17px;
-  color: #000000;
   margin-bottom: 8px;
 }
 
 .my-sumary {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
   margin-bottom: 8px;
   margin-top: 20px;
   margin-left: 15px;
@@ -122,12 +114,10 @@ body {
 .main-content-title {
   margin-bottom: 8px;
   margin-top: 10px;
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  color: #000000;
 }
 
 .projects-container {
@@ -139,7 +129,6 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
-  color: #000000;
   list-style: decimal;
 }
 
@@ -157,7 +146,6 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #000000;
 }
 
 .company-position {
@@ -166,7 +154,6 @@ body {
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 12px;
-  color: #000000;
 }
 
 .company-position-accent {
@@ -176,9 +163,8 @@ body {
 .company-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
-  line-height: 15px;
-  color: #a8a8a8;
+  font-size: 14px;
+  line-height: 24px;
   margin-bottom: 8px;
 }
 
@@ -187,7 +173,6 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
   list-style: disc;
 }
 
@@ -217,12 +202,7 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
-  color: #000000;
   margin-bottom: 8px;
-}
-
-.company-container-slot {
-  margin-bottom: 140px;
 }
 
 .contacts-link {
@@ -240,11 +220,9 @@ body {
 }
 
 .description {
-  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
   width: 500px;
 }
